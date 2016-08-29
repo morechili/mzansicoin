@@ -1,0 +1,9 @@
+Building Mzansicoin
+
+See doc/readme-qt.rst for instructions on building Mzansicoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Mzansicoin.
+
+See doc/build-*.txt for instructions on building mzansicoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Mzansicoin.
